@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" skipped="0" tests="1" time="8.858" failures="0" name="junit.framework.TestSuite@74c3aa">
+<testsuite errors="0" skipped="0" tests="1" time="8.923" failures="0" name="junit.framework.TestSuite@74c3aa">
   <properties>
     <property value="Apple Inc." name="java.vendor"/>
     <property value="SUN_STANDARD" name="sun.java.launcher"/>
@@ -75,5 +75,5 @@
     <property value="MacRoman" name="file.encoding"/>
     <property value="1.5" name="java.specification.version"/>
   </properties>
-  <testcase classname="giovanniltId.client.GwtTestSample" time="8.855" name="testSomething"/>
+  <testcase classname="giovanniltId.client.GwtTestSample" time="8.921" name="testSomething"/>
 </testsuite>
