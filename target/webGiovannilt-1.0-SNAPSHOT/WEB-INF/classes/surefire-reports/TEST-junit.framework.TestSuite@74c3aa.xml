@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" skipped="0" tests="1" time="8.857" failures="0" name="junit.framework.TestSuite@74c3aa">
+  <properties>
+    <property value="Apple Inc." name="java.vendor"/>
+    <property value="SUN_STANDARD" name="sun.java.launcher"/>
+    <property value="/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/tomcat" name="catalina.base"/>
+    <property value="HotSpot Client Compiler" name="sun.management.compiler"/>
+    <property value="true" name="catalina.useNaming"/>
+    <property value="Mac OS X" name="os.name"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/jsfd.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/sunrsasign.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/charsets.jar" name="sun.boot.class.path"/>
+    <property value="Sun Microsystems Inc." name="java.vm.specification.vendor"/>
+    <property value="1.5.0_24-b02-357-10M3065" name="java.runtime.version"/>
+    <property value="giovannilt" name="user.name"/>
+    <property value="${catalina.base}/shared/classes,${catalina.base}/shared/lib/*.jar" name="shared.loader"/>
+    <property value="true" name="awt.nativeDoubleBuffering"/>
+    <property value="en" name="user.language"/>
+    <property value="org.apache.naming.java.javaURLContextFactory" name="java.naming.factory.initial"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Libraries" name="sun.boot.library.path"/>
+    <property value="1.5.0_24" name="java.version"/>
+    <property value="Europe/Rome" name="user.timezone"/>
+    <property value="32" name="sun.arch.data.model"/>
+    <property value="local|*.local|169.254/16|*.169.254/16" name="http.nonProxyHosts"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home/lib/endorsed" name="java.endorsed.dirs"/>
+    <property value="" name="sun.cpu.isalist"/>
+    <property value="MacRoman" name="sun.jnu.encoding"/>
+    <property value="sun.io" name="file.encoding.pkg"/>
+    <property value="sun.,org.apache.catalina.,org.apache.coyote.,org.apache.tomcat.,org.apache.jasper.,sun.beans." name="package.access"/>
+    <property value="/" name="file.separator"/>
+    <property value="Java Platform API Specification" name="java.specification.name"/>
+    <property value="49.0" name="java.class.version"/>
+    <property value="US" name="user.country"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home" name="java.home"/>
+    <property value="mixed mode, sharing" name="java.vm.info"/>
+    <property value="/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/target/surefire-reports" name="surefire.reports"/>
+    <property value="true" name="apple.lang.DisableCompatibilityClasspath"/>
+    <property value="10.6.4" name="os.version"/>
+    <property value="false" name="com.apple.eawt.CocoaComponent.CompatibilityMode"/>
+    <property value=":" name="path.separator"/>
+    <property value="1.5.0_24-149" name="java.vm.version"/>
+    <property value="apple.awt.CPrinterJob" name="java.awt.printerjob"/>
+    <property value="UnicodeLittle" name="sun.io.unicode.encoding"/>
+    <property value="apple.awt.CToolkit" name="awt.toolkit"/>
+    <property value="local|*.local|169.254/16|*.169.254/16" name="socksNonProxyHosts"/>
+    <property value="local|*.local|169.254/16|*.169.254/16" name="ftp.nonProxyHosts"/>
+    <property value="sun.,java.,org.apache.catalina.,org.apache.coyote.,org.apache.tomcat.,org.apache.jasper." name="package.definition"/>
+    <property value="org.apache.naming" name="java.naming.factory.url.pkgs"/>
+    <property value="/Users/giovannilt" name="user.home"/>
+    <property value="Sun Microsystems Inc." name="java.specification.vendor"/>
+    <property value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" name="java.library.path"/>
+    <property value="http://www.apple.com/" name="java.vendor.url"/>
+    <property value="Apple Inc." name="java.vm.vendor"/>
+    <property value="false" name="gopherProxySet"/>
+    <property value="${catalina.home}/common/classes,${catalina.home}/common/endorsed/*.jar,${catalina.home}/common/lib/*.jar" name="common.loader"/>
+    <property value="Java(TM) 2 Runtime Environment, Standard Edition" name="java.runtime.name"/>
+    <property value="/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/src/main/java:/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/src/main/resources:/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/war/WEB-INF/classes:/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/src/test/java:/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/src/test/resources:/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/target/test-classes:/Users/giovannilt/.m2/repository/com/google/gwt/gwt-servlet/2.0.3/gwt-servlet-2.0.3.jar:/Users/giovannilt/.m2/repository/com/google/gwt/gwt-user/2.0.3/gwt-user-2.0.3.jar:/Users/giovannilt/.m2/repository/com/extjs/gxt/2.1.1/gxt-2.1.1.jar:/Users/giovannilt/.m2/repository/junit/junit/4.7/junit-4.7.jar:/Users/giovannilt/.m2/repository/com/google/gwt/gwt-dev/2.0.3/gwt-dev-2.0.3.jar:/Users/giovannilt/.m2/repository/org/codehaus/mojo/gwt-maven-plugin/1.2/gwt-maven-plugin-1.2.jar:/Users/giovannilt/.m2/repository/org/apache/maven/surefire/surefire-api/2.4.3/surefire-api-2.4.3.jar" name="java.class.path"/>
+    <property value="Java Virtual Machine Specification" name="java.vm.specification.name"/>
+    <property value="1.0" name="java.vm.specification.version"/>
+    <property value="/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt/tomcat" name="catalina.home"/>
+    <property value="little" name="sun.cpu.endian"/>
+    <property value="unknown" name="sun.os.patch.level"/>
+    <property value="/var/folders/g-/g-tawLaZHx0Xd6QaiPse6E+++TI/-Tmp-/" name="java.io.tmpdir"/>
+    <property value="http://bugreport.apple.com/" name="java.vendor.url.bug"/>
+    <property value="${catalina.home}/server/classes,${catalina.home}/server/lib/*.jar" name="server.loader"/>
+    <property value="10M3065" name="mrj.build"/>
+    <property value="i386" name="os.arch"/>
+    <property value="apple.awt.CGraphicsEnvironment" name="java.awt.graphicsenv"/>
+    <property value="/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home/lib/ext" name="java.ext.dirs"/>
+    <property value="1050.1.5.0_24-357" name="mrj.version"/>
+    <property value="/Users/giovannilt/Documents/workspace/giovanniltWeb/webGiovannilt" name="user.dir"/>
+    <property value="
+" name="line.separator"/>
+    <property value="Java HotSpot(TM) Client VM" name="java.vm.name"/>
+    <property value="com.google.gwt.dev.shell.tomcat.CommonsLoggerAdapter" name="org.apache.commons.logging.Log"/>
+    <property value="-out &quot;target/www-test&quot; " name="gwt.args"/>
+    <property value="MacRoman" name="file.encoding"/>
+    <property value="1.5" name="java.specification.version"/>
+  </properties>
+  <testcase classname="giovanniltId.client.GwtTestSample" time="8.855" name="testSomething"/>
+</testsuite>

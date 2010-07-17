@@ -1,0 +1,509 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>
+Method Dependencies for Initially Live Code
+</title>
+<style type="text/css" media="screen">
+@import url('goog.css');
+@import url('inlay.css');
+@import url('soyc.css');
+</style>
+</head>
+<body>
+<div class="g-doc">
+<div id="hd" class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first">
+<p>
+<a href="index.html" id="gwt-logo" class="soyc-ir"><span>Google Web Toolkit</span></a>
+</p>
+</div>
+<div class="g-unit">
+</div>
+</div>
+<div id="soyc-appbar-lrg">
+<div class="g-section g-tpl-75-25 g-split">
+<div class="g-unit g-first">
+<h1>Method Dependencies for Initially Live Code</h1>
+</div>
+<div class="g-unit"></div>
+</div>
+</div>
+<div id="bd">
+<h2>Showing Package: com.google.gwt.event.logical.shared</h2>
+<a name="com.google.gwt.event.logical.shared.CloseEvent"><h3 class="soyc-class-header">Class: com.google.gwt.event.logical.shared.CloseEvent</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.CloseEvent</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.CloseEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onClosed</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$1::execute</li>
+<li>com.google.gwt.user.client.Command::$clinit</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeCloseHandlers</li>
+<li>com.google.gwt.user.client.Window::addCloseHandler</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.CloseEvent::$dispatch</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.CloseEvent::dispatch</li>
+<li>com.google.gwt.event.logical.shared.CloseEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onClosed</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$1::execute</li>
+<li>com.google.gwt.user.client.Command::$clinit</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeCloseHandlers</li>
+<li>com.google.gwt.user.client.Window::addCloseHandler</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.CloseEvent::dispatch</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.CloseEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onClosed</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$1::execute</li>
+<li>com.google.gwt.user.client.Command::$clinit</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeCloseHandlers</li>
+<li>com.google.gwt.user.client.Window::addCloseHandler</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.CloseEvent::fire</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.user.client.Window::onClosed</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$1::execute</li>
+<li>com.google.gwt.user.client.Command::$clinit</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeCloseHandlers</li>
+<li>com.google.gwt.user.client.Window::addCloseHandler</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.CloseEvent::getAssociatedType</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.CloseEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onClosed</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$1::execute</li>
+<li>com.google.gwt.user.client.Command::$clinit</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeCloseHandlers</li>
+<li>com.google.gwt.user.client.Window::addCloseHandler</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.CloseEvent::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.CloseEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onClosed</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$1::execute</li>
+<li>com.google.gwt.user.client.Command::$clinit</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeCloseHandlers</li>
+<li>com.google.gwt.user.client.Window::addCloseHandler</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.google.gwt.event.logical.shared.CloseHandler"><h3 class="soyc-class-header">Class: com.google.gwt.event.logical.shared.CloseHandler</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.CloseHandler</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.CloseHandler::onClose</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.CloseHandler::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.google.gwt.event.logical.shared.HasCloseHandlers"><h3 class="soyc-class-header">Class: com.google.gwt.event.logical.shared.HasCloseHandlers</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.HasCloseHandlers</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.user.client.Window::getHandlers</li>
+<li>com.google.gwt.user.client.Window::onClosed</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$1::execute</li>
+<li>com.google.gwt.user.client.Command::$clinit</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeCloseHandlers</li>
+<li>com.google.gwt.user.client.Window::addCloseHandler</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.google.gwt.event.logical.shared.HasResizeHandlers"><h3 class="soyc-class-header">Class: com.google.gwt.event.logical.shared.HasResizeHandlers</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.HasResizeHandlers</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.user.client.Window::getHandlers</li>
+<li>com.google.gwt.user.client.Window::onClosed</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowCloseHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$1::execute</li>
+<li>com.google.gwt.user.client.Command::$clinit</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeCloseHandlers</li>
+<li>com.google.gwt.user.client.Window::addCloseHandler</li>
+<li>com.google.gwt.user.client.Timer::$clinit</li>
+<li>com.google.gwt.user.client.Timer::$cancel</li>
+<li>com.extjs.gxt.ui.client.util.DelayedTask::$delay</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::$handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout$2::handleEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Layout::$setContainer</li>
+<li>com.extjs.gxt.ui.client.widget.Container::$setLayout</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.google.gwt.event.logical.shared.ResizeEvent"><h3 class="soyc-class-header">Class: com.google.gwt.event.logical.shared.ResizeEvent</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.ResizeEvent</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.ResizeEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onResize</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowResizeHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$2::execute</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeResizeHandlers</li>
+<li>com.google.gwt.user.client.Window::addResizeHandler</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onLoad</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onLoad</li>
+<li>com.google.gwt.user.client.ui.Widget::$onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::$setParent</li>
+<li>com.google.gwt.user.client.ui.ComplexPanel::$remove</li>
+<li>com.google.gwt.user.client.ui.AbsolutePanel::$remove</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$hide</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$handleClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::onComponentEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onBrowserEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onBrowserEvent</li>
+<li>com.google.gwt.user.client.EventListener::$clinit</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$initMore</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$fitToSize</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::onLayout</li>
+<li>com.extjs.gxt.ui.client.widget.toolbar.ToolBar::$ToolBar</li>
+<li>com.extjs.gxt.ui.client.widget.button.ButtonBar::$ButtonBar</li>
+<li>com.extjs.gxt.ui.client.widget.ContentPanel::$ContentPanel</li>
+<li>com.extjs.gxt.ui.client.widget.Window::$Window</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.ResizeEvent::$dispatch</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.ResizeEvent::dispatch</li>
+<li>com.google.gwt.event.logical.shared.ResizeEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onResize</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowResizeHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$2::execute</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeResizeHandlers</li>
+<li>com.google.gwt.user.client.Window::addResizeHandler</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onLoad</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onLoad</li>
+<li>com.google.gwt.user.client.ui.Widget::$onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::$setParent</li>
+<li>com.google.gwt.user.client.ui.ComplexPanel::$remove</li>
+<li>com.google.gwt.user.client.ui.AbsolutePanel::$remove</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$hide</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$handleClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::onComponentEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onBrowserEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onBrowserEvent</li>
+<li>com.google.gwt.user.client.EventListener::$clinit</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$initMore</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$fitToSize</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::onLayout</li>
+<li>com.extjs.gxt.ui.client.widget.toolbar.ToolBar::$ToolBar</li>
+<li>com.extjs.gxt.ui.client.widget.button.ButtonBar::$ButtonBar</li>
+<li>com.extjs.gxt.ui.client.widget.ContentPanel::$ContentPanel</li>
+<li>com.extjs.gxt.ui.client.widget.Window::$Window</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.ResizeEvent::dispatch</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.ResizeEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onResize</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowResizeHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$2::execute</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeResizeHandlers</li>
+<li>com.google.gwt.user.client.Window::addResizeHandler</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onLoad</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onLoad</li>
+<li>com.google.gwt.user.client.ui.Widget::$onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::$setParent</li>
+<li>com.google.gwt.user.client.ui.ComplexPanel::$remove</li>
+<li>com.google.gwt.user.client.ui.AbsolutePanel::$remove</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$hide</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$handleClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::onComponentEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onBrowserEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onBrowserEvent</li>
+<li>com.google.gwt.user.client.EventListener::$clinit</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$initMore</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$fitToSize</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::onLayout</li>
+<li>com.extjs.gxt.ui.client.widget.toolbar.ToolBar::$ToolBar</li>
+<li>com.extjs.gxt.ui.client.widget.button.ButtonBar::$ButtonBar</li>
+<li>com.extjs.gxt.ui.client.widget.ContentPanel::$ContentPanel</li>
+<li>com.extjs.gxt.ui.client.widget.Window::$Window</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.ResizeEvent::fire</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.user.client.Window::onResize</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowResizeHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$2::execute</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeResizeHandlers</li>
+<li>com.google.gwt.user.client.Window::addResizeHandler</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onLoad</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onLoad</li>
+<li>com.google.gwt.user.client.ui.Widget::$onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::$setParent</li>
+<li>com.google.gwt.user.client.ui.ComplexPanel::$remove</li>
+<li>com.google.gwt.user.client.ui.AbsolutePanel::$remove</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$hide</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$handleClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::onComponentEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onBrowserEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onBrowserEvent</li>
+<li>com.google.gwt.user.client.EventListener::$clinit</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$initMore</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$fitToSize</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::onLayout</li>
+<li>com.extjs.gxt.ui.client.widget.toolbar.ToolBar::$ToolBar</li>
+<li>com.extjs.gxt.ui.client.widget.button.ButtonBar::$ButtonBar</li>
+<li>com.extjs.gxt.ui.client.widget.ContentPanel::$ContentPanel</li>
+<li>com.extjs.gxt.ui.client.widget.Window::$Window</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.ResizeEvent::getAssociatedType</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.ResizeEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onResize</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowResizeHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$2::execute</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeResizeHandlers</li>
+<li>com.google.gwt.user.client.Window::addResizeHandler</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onLoad</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onLoad</li>
+<li>com.google.gwt.user.client.ui.Widget::$onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::$setParent</li>
+<li>com.google.gwt.user.client.ui.ComplexPanel::$remove</li>
+<li>com.google.gwt.user.client.ui.AbsolutePanel::$remove</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$hide</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$handleClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::onComponentEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onBrowserEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onBrowserEvent</li>
+<li>com.google.gwt.user.client.EventListener::$clinit</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$initMore</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$fitToSize</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::onLayout</li>
+<li>com.extjs.gxt.ui.client.widget.toolbar.ToolBar::$ToolBar</li>
+<li>com.extjs.gxt.ui.client.widget.button.ButtonBar::$ButtonBar</li>
+<li>com.extjs.gxt.ui.client.widget.ContentPanel::$ContentPanel</li>
+<li>com.extjs.gxt.ui.client.widget.Window::$Window</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.ResizeEvent::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.ResizeEvent::fire</li>
+<li>com.google.gwt.user.client.Window::onResize</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE::$initWindowResizeHandlerImpl</li>
+<li>com.google.gwt.user.client.impl.WindowImplIE$2::execute</li>
+<li>com.google.gwt.user.client.Window::maybeInitializeResizeHandlers</li>
+<li>com.google.gwt.user.client.Window::addResizeHandler</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onLoad</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onLoad</li>
+<li>com.google.gwt.user.client.ui.Widget::$onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::$setParent</li>
+<li>com.google.gwt.user.client.ui.ComplexPanel::$remove</li>
+<li>com.google.gwt.user.client.ui.AbsolutePanel::$remove</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$hide</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$handleClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::onComponentEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onBrowserEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onBrowserEvent</li>
+<li>com.google.gwt.user.client.EventListener::$clinit</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$initMore</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$fitToSize</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::onLayout</li>
+<li>com.extjs.gxt.ui.client.widget.toolbar.ToolBar::$ToolBar</li>
+<li>com.extjs.gxt.ui.client.widget.button.ButtonBar::$ButtonBar</li>
+<li>com.extjs.gxt.ui.client.widget.ContentPanel::$ContentPanel</li>
+<li>com.extjs.gxt.ui.client.widget.Window::$Window</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.ResizeEvent::getType</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.user.client.Window::addResizeHandler</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onLoad</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onLoad</li>
+<li>com.google.gwt.user.client.ui.Widget::$onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::$setParent</li>
+<li>com.google.gwt.user.client.ui.ComplexPanel::$remove</li>
+<li>com.google.gwt.user.client.ui.AbsolutePanel::$remove</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$hide</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$handleClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::onComponentEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onBrowserEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onBrowserEvent</li>
+<li>com.google.gwt.user.client.EventListener::$clinit</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$initMore</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$fitToSize</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::onLayout</li>
+<li>com.extjs.gxt.ui.client.widget.toolbar.ToolBar::$ToolBar</li>
+<li>com.extjs.gxt.ui.client.widget.button.ButtonBar::$ButtonBar</li>
+<li>com.extjs.gxt.ui.client.widget.ContentPanel::$ContentPanel</li>
+<li>com.extjs.gxt.ui.client.widget.Window::$Window</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.google.gwt.event.logical.shared.ResizeHandler"><h3 class="soyc-class-header">Class: com.google.gwt.event.logical.shared.ResizeHandler</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.google.gwt.event.logical.shared.ResizeHandler</a>
+<ul class="soyc-call-stack-list">
+<li>com.extjs.gxt.ui.client.widget.Component::$onLoad</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onLoad</li>
+<li>com.google.gwt.user.client.ui.Widget::$onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::onAttach</li>
+<li>com.google.gwt.user.client.ui.Widget::$setParent</li>
+<li>com.google.gwt.user.client.ui.ComplexPanel::$remove</li>
+<li>com.google.gwt.user.client.ui.AbsolutePanel::$remove</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$hide</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$handleClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Item::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::$onClick</li>
+<li>com.extjs.gxt.ui.client.widget.menu.Menu::onComponentEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::$onBrowserEvent</li>
+<li>com.extjs.gxt.ui.client.widget.Component::onBrowserEvent</li>
+<li>com.google.gwt.user.client.EventListener::$clinit</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$initMore</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::$fitToSize</li>
+<li>com.extjs.gxt.ui.client.widget.layout.ToolBarLayout::onLayout</li>
+<li>com.extjs.gxt.ui.client.widget.toolbar.ToolBar::$ToolBar</li>
+<li>com.extjs.gxt.ui.client.widget.button.ButtonBar::$ButtonBar</li>
+<li>com.extjs.gxt.ui.client.widget.ContentPanel::$ContentPanel</li>
+<li>com.extjs.gxt.ui.client.widget.Window::$Window</li>
+<li>giovanniltId.client.HelloWorldExample::$HelloWorldExample</li>
+<li>giovanniltId.client.Application::$onModuleLoad</li>
+</ul>
+</div>
+</div>
+</body>
+</html>
