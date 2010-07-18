@@ -9,11 +9,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/src/main/java" />
-          <root url="file://$MODULE_DIR$/src/main/resources" />
-          <root url="file://$MODULE_DIR$/src/test/java" />
-        </sourceRoots>
         <context-artifact name="webGiovannilt:war exploded" />
       </configuration>
     </facet>
@@ -37,10 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/war/WEB-INF/lib" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/target" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/war/WEB-INF/classes" />
-      <excludeFolder url="file://$MODULE_DIR$/war/WEB-INF/lib" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
