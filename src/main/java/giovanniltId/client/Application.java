@@ -13,6 +13,7 @@ public class Application implements EntryPoint {
     public void onModuleLoad() {
         HomePage hello = new HomePage();
 
+     
         RootPanel.get().add(hello);
     }
 }

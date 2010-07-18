@@ -11,9 +11,9 @@
     <!-- Specify the app entry point class.                         -->
     <entry-point class='giovanniltId.client.Application'/>
 
-    <!-- Specify the application specific style sheet.              -->
+    <!-- Specify the application specific style sheet.
     <stylesheet src='Application.css'/>
-
+-->
     <!-- GIO -->
 
     <source path="client" excludes="*/*Test*.java"/>

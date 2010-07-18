@@ -3,11 +3,10 @@ package giovanniltId.client;
 import com.extjs.gxt.ui.client.Style;
 import com.extjs.gxt.ui.client.util.Margins;
 import com.extjs.gxt.ui.client.widget.ContentPanel;
+import com.extjs.gxt.ui.client.widget.HorizontalPanel;
 import com.extjs.gxt.ui.client.widget.LayoutContainer;
 import com.extjs.gxt.ui.client.widget.Text;
-import com.extjs.gxt.ui.client.widget.layout.FlowData;
-import com.extjs.gxt.ui.client.widget.layout.RowData;
-import com.extjs.gxt.ui.client.widget.layout.RowLayout;
+import com.extjs.gxt.ui.client.widget.layout.*;
 
 /**
  * Created by IntelliJ IDEA.
@@ -24,66 +23,59 @@ public class HomePage extends LayoutContainer {
         Text title = new Text("Giovanni La Torre");
         title.addStyleName("pad-text");
         title.setStyleAttribute("font-size", "50px");
-        title.setStyleAttribute("backgroundColor", "#FFCC00");
+        title.setStyleAttribute("backgroundColor", "#0099cc");
         title.setStyleAttribute("text-align", "right");
         title.setBorders(true);
+        title.setHeight(50);
+        title.setSize(800,50);
 
-        add(title, new FlowData(5));
+        add(title, new FlowData(15));
 
         ContentPanel panelCentre = new ContentPanel();
-        panelCentre.setLayout(new RowLayout(Style.Orientation.VERTICAL));
+        panelCentre.setLayout(new BorderLayout());
+        panelCentre.setHeaderVisible(false);
+       
         panelCentre.setSize(800, 600);
         panelCentre.setFrame(true);
         panelCentre.setCollapsible(false);
 
+
         Text label1 = new Text("Test Label 1");
         label1.addStyleName("pad-text");
         label1.setStyleAttribute("backgroundColor", "white");
-        label1.setBorders(true);
 
-        Text label2 = new Text("Test Label 2");
-        label2.addStyleName("pad-text");
-        label2.setStyleAttribute("backgroundColor", "white");
-        label2.setBorders(true);
+        ContentPanel panelInBox = new ContentPanel();
+        panelInBox.setLayout(new AbsoluteLayout());
+        panelInBox.setHeaderVisible(false);
 
-        Text label3 = new Text("Test Label 3");
-        label3.addStyleName("pad-text");
-        label3.setStyleAttribute("backgroundColor", "white");
-        label3.setBorders(true);
+        ContentPanel panelInCurricula = new ContentPanel();
+        panelInCurricula.setLayout(new AbsoluteLayout());
+        panelInCurricula.setHeaderVisible(false);
+        panelInCurricula.setStyleAttribute("backgroundColor", "white");
 
-        panelCentre.add(label1, new RowData(1, -1, new Margins(4)));
-        panelCentre.add(label2, new RowData(1, 1, new Margins(0, 4, 0, 4)));
-        panelCentre.add(label3, new RowData(1, -1, new Margins(4)));
 
-        add(panelCentre, new FlowData(5));
+        BorderLayoutData centerData = new BorderLayoutData(Style.LayoutRegion.CENTER);
+        centerData.setMargins(new Margins(5, 0, 5, 0));
 
-        ContentPanel panelButton = new ContentPanel();
-        panelButton.setHeading("RowLayout: Orientation set to horizontal");
-        panelButton.setLayout(new RowLayout(Style.Orientation.HORIZONTAL));
-        panelButton.setSize(400, 300);
-        panelButton.setFrame(true);
-        panelButton.setCollapsible(true);
+        BorderLayoutData eastData = new BorderLayoutData(Style.LayoutRegion.EAST);
+        eastData.setMargins(new Margins(5, 0, 5, 15));
 
-        label1 = new Text("Test Label 1");
-        label1.addStyleName("pad-text");
-        label1.setStyleAttribute("backgroundColor", "white");
-        label1.setBorders(true);
+        BorderLayoutData bottomData = new BorderLayoutData(Style.LayoutRegion.SOUTH);
+        bottomData.setMargins(new Margins(5, 0, 5, 0));
 
-        label2 = new Text("Test Label 2");
-        label2.addStyleName("pad-text");
-        label2.setStyleAttribute("backgroundColor", "white");
-        label2.setBorders(true);
 
-        label3 = new Text("Test Label 3");
-        label3.addStyleName("pad-text");
-        label3.setStyleAttribute("backgroundColor", "white");
-        label3.setBorders(true);
+        panelCentre.add(label1, eastData);
+        panelCentre.add(panelInBox, centerData);
+        panelCentre.add(panelInCurricula, bottomData);
 
-        panelButton.add(label1, new RowData(-1, 1, new Margins(4)));
-        panelButton.add(label2, new RowData(1, 1, new Margins(4, 0, 4, 0)));
-        panelButton.add(label3, new RowData(-1, 1, new Margins(4)));
 
-        add(panelButton, new FlowData(2));
+        add(panelCentre, new FlowData(15));
+
+        ContentPanel panelBottom = new ContentPanel();
+        panelBottom.setHeading("Giovanni La Torre giovannilt@gmail.com");
+        panelBottom.setSize(830,25);
+
+        add(panelBottom, new FlowData(2));
 
     }
 
