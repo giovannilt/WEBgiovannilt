@@ -7,6 +7,8 @@ import com.extjs.gxt.ui.client.widget.HorizontalPanel;
 import com.extjs.gxt.ui.client.widget.LayoutContainer;
 import com.extjs.gxt.ui.client.widget.Text;
 import com.extjs.gxt.ui.client.widget.layout.*;
+import giovanniltId.client.components.BottomBox;
+import org.intellij.lang.annotations.Language;
 
 /**
  * Created by IntelliJ IDEA.
@@ -20,41 +22,59 @@ public class HomePage extends LayoutContainer {
     public HomePage() {
         setScrollMode(Style.Scroll.AUTOY);
 
-        Text title = new Text("Giovanni La Torre");
-        title.addStyleName("pad-text");
-        title.setStyleAttribute("font-size", "50px");
-        title.setStyleAttribute("backgroundColor", "#0099cc");
-        title.setStyleAttribute("text-align", "right");
-        title.setBorders(true);
-        title.setHeight(50);
-        title.setSize(800,50);
+        ContentPanel panelTop = new ContentPanel();
+        panelTop.setLayout(new BorderLayout());
+        panelTop.setHeaderVisible(false);
+        panelTop.setSize(830, 75);
 
-        add(title, new FlowData(15));
+        BorderLayoutData centerData = new BorderLayoutData(Style.LayoutRegion.CENTER);
+        centerData.setMargins(new Margins(15, 25, 15, 25));
+
+        Text title = new Text("Giovanni La Torre");
+
+        title.setStyleAttribute("font-size", "40px");
+        title.setStyleAttribute("font-family", "tahoma");
+        title.setStyleAttribute("color", "#D38131");
+        title.setStyleAttribute("backgroundColor", "transparent");
+
+        title.setStyleAttribute("text-align", "right");
+        title.setBorders(false);
+        title.setHeight(50);
+        title.setSize(800, 50);
+
+        panelTop.add(title, centerData);
+
+        add(panelTop, new FlowData(2));
 
         ContentPanel panelCentre = new ContentPanel();
         panelCentre.setLayout(new BorderLayout());
         panelCentre.setHeaderVisible(false);
-       
+
         panelCentre.setSize(800, 600);
         panelCentre.setFrame(true);
         panelCentre.setCollapsible(false);
 
 
-        Text label1 = new Text("Test Label 1");
-        label1.addStyleName("pad-text");
-        label1.setStyleAttribute("backgroundColor", "white");
+        Text frase = new Text();
+        @Language("HTML") String monicelli="<PRE>    </PRE>Monicelli: 'La speranza di cui si parla e' una trappola e' una brutta parola non si deve usare.</br>" +
+                "<PRE>    </PRE> La speranza e' una trappola inventata dai padroni</br>" +
+                "<PRE>    </PRE> La speranza e' di quelli che dicono in nome di Dio 'state boni state zitti pregate, avrete il vostro riscatto la ricompensa nell'aldila' state boni, state boni tornate a casa, ma tanto tra due tre mesi vi riassumiamo ...'</br> \n" +
+                "<PRE>    </PRE> La speranza e' una trappola, mai avere la speranza, e' una cosa infame e' una trappola.";
+        frase.setText(monicelli);
+        frase.setStyleAttribute("backgroundColor", "transparent");
+        frase.setStyleAttribute("font-family", "tahoma");
+        frase.setStyleAttribute("font-size", "14px");
+        frase.setStyleAttribute("color", "#A46525");
+         //frase.addStyleName("pad-text");     TODO: capire come aggiungere un style
+
 
         ContentPanel panelInBox = new ContentPanel();
         panelInBox.setLayout(new AbsoluteLayout());
+        panelInBox.setStyleAttribute("backgroundColor", "#1F6525");
         panelInBox.setHeaderVisible(false);
 
-        ContentPanel panelInCurricula = new ContentPanel();
-        panelInCurricula.setLayout(new AbsoluteLayout());
-        panelInCurricula.setHeaderVisible(false);
-        panelInCurricula.setStyleAttribute("backgroundColor", "white");
 
-
-        BorderLayoutData centerData = new BorderLayoutData(Style.LayoutRegion.CENTER);
+        centerData = new BorderLayoutData(Style.LayoutRegion.CENTER);
         centerData.setMargins(new Margins(5, 0, 5, 0));
 
         BorderLayoutData eastData = new BorderLayoutData(Style.LayoutRegion.EAST);
@@ -63,17 +83,16 @@ public class HomePage extends LayoutContainer {
         BorderLayoutData bottomData = new BorderLayoutData(Style.LayoutRegion.SOUTH);
         bottomData.setMargins(new Margins(5, 0, 5, 0));
 
-
-        panelCentre.add(label1, eastData);
+        panelCentre.add(frase, eastData);
         panelCentre.add(panelInBox, centerData);
-        panelCentre.add(panelInCurricula, bottomData);
+        panelCentre.add(new BottomBox(), bottomData);
 
 
         add(panelCentre, new FlowData(15));
 
         ContentPanel panelBottom = new ContentPanel();
         panelBottom.setHeading("Giovanni La Torre giovannilt@gmail.com");
-        panelBottom.setSize(830,25);
+        panelBottom.setSize(830, 25);
 
         add(panelBottom, new FlowData(2));
 

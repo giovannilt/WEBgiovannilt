@@ -40,6 +40,15 @@
     <orderEntry type="library" exported="" name="Maven: com.google.gwt:gwt-user:2.0.3" level="project" />
     <orderEntry type="library" exported="" name="Maven: com.extjs:gxt:2.1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.7" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
 
