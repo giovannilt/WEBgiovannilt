@@ -15,12 +15,724 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="7e27bde4-5546-4a55-8605-e86a0fa3fee2" name="Default" comment="Corretto il Folder Resources">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/giovanniltId/client/HomePage.java" afterPath="$PROJECT_DIR$/src/main/java/giovanniltId/client/HomePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/ImmageOrganizer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webGiovannilt.iws" afterPath="$PROJECT_DIR$/webGiovannilt.iws" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/tree/vnode_transparent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/box/corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/tool-sprites.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/right2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/mso-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/large-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/top-bottom.gif" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webGiovannilt.iml" afterPath="$PROJECT_DIR$/webGiovannilt.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/Application.html" afterPath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/Application.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/BottomBox.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/hmenu-asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/menu/menu-parent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/shared/left-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tabs-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/editor/tb-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/exclamation.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shadow-lr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/top-bottom copy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/dd/drop-yes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/winbar-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/grid/row-editor-btns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/nw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/hmenu-desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/hmenu-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/menu/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/window/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/group-lr.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/page-first-disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/sw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/shared/select-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/trigger-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/row-sel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/window/icon-warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/slider/slider-v-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/window/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/arrow-right-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid3-hd-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/up2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/button/group-lr.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/menu/group-checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/tree/vnode.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/s-arrow-bo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/info/top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/window/icon-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/row-check-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/glass-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid-vista-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/drop-under.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/drop-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/button/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/ns-expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/row-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/folder-open.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/hmenu-unlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/window/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/menu/item-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/date-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/ImmageOrganizer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/group-tb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/tabs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/stick.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/ns-collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/tool-sprite-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/powered.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/menu/item-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/dd/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/dirty.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid3-special-col-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/window/icon-warning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/btn-arrow-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/group-lr.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/menu/unchecked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/s-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/icon-warning.gif" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webGiovannilt.ipr" afterPath="$PROJECT_DIR$/webGiovannilt.ipr" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid3-special-col-sel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/form/radio.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/qtip/tip-anchor-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/clear-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/search-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/logout.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/grid/row-editor-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/page-next-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/nw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/more.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/table/row-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/tool-sprites.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/editor/tb-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid3-hrow-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/start-menu-left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/window/icon-info.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/page-first.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/s-arrow-o.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/blue-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/pick-button.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/page-prev-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/nowait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/group-collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-end-plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid3-hd-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/drop-between.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/progress/progress-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/giovanniltId/client/HomePage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/tool-sprite-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/columns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/shared/hd-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/toolbar/btn-over-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/row-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/window/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/css/desktop.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/arrow-left-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/grid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/group-cs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/progress/progress-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/s-arrow-noline.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/s-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tabs-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/group-by.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/ne-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/square.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/group-by.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/giovanniltId/Application.gwt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/mini-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/sw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-end-minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/row-editor-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tab-strip-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/white-top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/clear-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/page-next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/right-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/doubleright2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/invalid_line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/gears.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/window/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/s-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/qtip/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/stick.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/toolbar/btn-arrow-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/page-last.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/panel-title-light-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/btn-arrow-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/top2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/shared/right-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/box/tb-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/folder-closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/nw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/group-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/page-last-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/group-tb.gif" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/page-prev-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/menu/item-over - Copy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/shared/select-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/window/icon-warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/row-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/tree/notchecked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/taskbutton.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/row-check-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/tree/joint-open.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/blue-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/slider/slider-v-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/button/btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/dd/insert-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid3-special-col-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/panel-title-light-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/css/gxt-gray.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/hmenu-asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/window/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/nowait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/box/r-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/menu/unchecked.gif" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webGiovannilt.iws" afterPath="$PROJECT_DIR$/webGiovannilt.iws" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/page-first-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/page-last-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/hmenu-unlock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/slider/slider-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/sort-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/s-arrow-o.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/hd-pop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/hd-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tab-strip-btm-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/icons-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shadow-c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/col-move-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/s-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/tab-close-on.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/flash/swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/mso-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/page-next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/down2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/page-next-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/shared/glass-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/box/r.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/startbutton-icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/member.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/mini-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/s-arrow-b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/hd-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/dd/drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/window/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/tools-sprites-trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/editor/tb-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-end-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/ns-collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/menu/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/box/tb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/group-cs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/drop-yes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/hmenu-unlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/error-tip-corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/slider/slider-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/sw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/arrow-left-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/s-arrow-bo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/panel-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/paging.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/form/checkbox.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/tree/joint-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/window/icon-question.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/mini-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/checkbox.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/calendar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/sw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/wallpapers/desktop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/dirty.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/refresh.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/button/btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/row-editor-btns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/icon_padlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/icon-error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/nowait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/light-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/columns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid-vista-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/wait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/table/vsort-asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/folder-open.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/page-last.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/ne-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/scroller-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/toolbar/tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-end-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/shared/select-18-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/s-arrow-o.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/box/r.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/table/vsort-desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/white-corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/left-corners.pspimage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/group-cs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/logout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/tabs-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/slider/slider-v-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/drop-no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/white-left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/shared/clear.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/exclamation.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-end-minus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/toolbar/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/error-tip-corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/white-corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/sw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/s-arrow-b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-end-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/col-move-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/done.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/white-corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/s-arrow-noline.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/arrow-right-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/square.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/page-last.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/group-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/chart/open-flash-chart.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/drop-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/s.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/white-top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/light-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/launcher-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/progress/progress-bg - Copy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/menu/menu-parent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/shared/select-19-bg-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/toolbar/btn-over-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/taskbar-split-h.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/hd-tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/loading-balls.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/window/icon-error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid3-hrow-group.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/ns-expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/dd/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/white-left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/tab-btm-inactive-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/tools-sprites-trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/wait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/columns.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/group-lr.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid3-special-col-sel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/ne-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/ne-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tab-strip-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/s-arrow-b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/launcher-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/hd-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/hmenu-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-end-plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/page-next-disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/done.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/se-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/left-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/gears.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/box/l-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/tb-xl-sep.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/hmenu-desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid3-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/doubleleft2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/start-menu-right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/tab-close-on.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/col-move-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid3-hrow-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid-blue-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/stuck.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/light-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/group-tb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/shared/large-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/Application.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/se-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/startbutton.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/progress/progress-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/bottom2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/page-first.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/row-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/menu/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/square.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/window/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/scroller-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid3-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/item-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/white-top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/refresh.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/col-move-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/nw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/mini-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/winbar-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/s-arrow-b-noline.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/box/corners-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/box/tb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/page-first.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/search-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/ne-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/window/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/panel-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/slider/slider-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/form/trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/ne-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/page-last.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/mini-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shadow-c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/hmenu-desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/toolbar/gray-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/page-next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/panel-title-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shadow-lr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/clear.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/page-next-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/footer-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/stuck.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/tb-xl-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid3-special-col-sel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/page-prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/page-first.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/more.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid-vista-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/white-left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/white-top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/e-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tab-btm-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid3-special-col-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/slider/slider-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/tools-sprites-trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/folder-closed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/scroller-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid3-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/shared/select-19-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/light-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid-blue-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/box/l.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid-blue-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/menu/menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/panel-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/col-move-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/toolbar/btn-arrow-light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/hmenu-unlock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/leaf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/window/icon-error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/calendar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/radio.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/page-next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/white-left-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/sw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/window/icon-question.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/grid-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/window/left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/tree/tree-table-special-col-sel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/menu/menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/group-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/user_trigger.gif" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/log4j.properties" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/box/l.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/s-arrow-b-noline.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/page-prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/page-first-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/qtip/tip-anchor-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/taskbuttons-panel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/qtip/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/icon-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/css/xtheme-human.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/page-last-disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-end.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/giovanniltId/client/GwtTestSample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/s-arrow-noline.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/done.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/menu/menu-parent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/window/icon-question.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/page-prev-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/white-corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid-blue-split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/tool-sprite-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tabs-sprite.gif" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/appengine-web.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/start-menu-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/tab-strip-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/powered.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/tree/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/button/group-cs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/menu/item-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/box/r-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/tree/tree-table-special-col.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/pick-button.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/slider/slider-v-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/e-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/taskbar-start-panel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/css/gxt-all.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/qtip/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/drop-between.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/toolbar/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tab-close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/form/date-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/e-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/box/corners-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/button/group-tb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tab-strip-btm-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid3-hd-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/scroller-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/panel-title-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/nw-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/tb-xl-sep.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/mini-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/scroll-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/fill-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/hmenu-lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/sizer/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/start-menu-top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/dd/drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/nw-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/page-prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/layout/mini-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/date-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/footer-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/windows-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/slider/slider-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/slider/slider-v-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/page-first-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/toolbar/sep.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-end-minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/mso-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/text-bg-focus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/sort-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/hmenu-lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/page-last-disabled.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/leaf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/tb-xl-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/window/top-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/form/trigger-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/css/xtheme-slate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/checkbox.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/arrow-right-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/table/vs-column-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/right-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/dd/drop-no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/icons/left2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/qtip/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/desktop3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/row-sel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/row-sel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/box/l-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid3-hrow-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/footer-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/s-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/menu/unchecked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/button/s-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/form/clear-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/loading-balls.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/drop-under.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/arrow-left-white.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/sizer/se-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/hatch.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/tool-sprites.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tree/arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/bottomBox.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/box/corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/se-handle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/window/icon-info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tab-strip-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/menu/group-checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/menu/disabledcheck.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/hd-pop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/tab-btm-left-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tabs/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/slider/slider-v-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/panel/tool-sprite-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/invalid_line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/large-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/right-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/taskbar/black/start-menu-left-corners.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/toolbar/btn-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/grid-blue-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/hmenu-asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/tabs/tab-btm-inactive-right-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/page-prev-disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/group-expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/shared/glass-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/sizer/e-handle-dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/s-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/text-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/tool-sprites.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/qtip/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/panel/top-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/page-prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/member.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/toolbar/tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/window/icon-question.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/tab-scroller-menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/tb-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/giovanniltId/client/Application.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/grid/grid-hrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/form/search-trigger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/window/left-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gray/tabs/tab-strip-btm-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/slider/slider-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/gradient-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/col-move-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/btn-over-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/grid-blue-hd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/toolbar/tb-btn-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/toolbar/btn-over-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/row-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/desktop/images/desktop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow-plus-nl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/button/s-arrow-bo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/qtip/tip-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/layout/mini-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/warning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/text-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tabs/scroll-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/form/radio.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/gxt/info/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/window/icon-error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/grid/wait.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/shared/left-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/elbow-end.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/tools-sprites-trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/menu/menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/form/trigger-tpl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/panel/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/panel/corners-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/menu/group-checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/grid/sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/images/default/tree/arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/box/tb-blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/images/human/tree/elbow.gif" afterPath="" />
     </list>
     <ignored path="$USER_HOME_GRIFFON$/" />
     <ignored path="$USER_HOME_GRAILS$/" />
@@ -81,54 +793,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="HomePage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/client/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/giovannilt/client/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="7" selection-start="3006" selection-end="3073" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BottomBox.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/client/components/BottomBox.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="22" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xtheme-human.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/css/xtheme-human.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1374" column="17" selection-start="30743" selection-end="30755" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/client/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/giovanniltId/public/Application.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="4" selection-start="1324" selection-end="1324" vertical-scroll-proportion="-16.8">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImmageOrganizer.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/client/components/ImmageOrganizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="29" selection-start="3923" selection-end="3942" vertical-scroll-proportion="0.44210526">
+            <state line="60" column="58" selection-start="2421" selection-end="2421" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,10 +803,91 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="appengine-web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/appengine-web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="44" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="2" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appengine-web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/WEB-INF/appengine-web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="25" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../../Desktop/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="19" selection-start="239" selection-end="239" vertical-scroll-proportion="0.1779661">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="29" selection-start="178" selection-end="178" vertical-scroll-proportion="-3.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.gwt.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/giovannilt/Application.gwt.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="3" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/giovannilt/public/Application.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="0" selection-start="1829" selection-end="1829" vertical-scroll-proportion="-27.6">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="27" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0">
+            <state line="53" column="65" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,21 +903,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/HelloWorldExample.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/target/extra/giovanniltId.Application/soycReport/compile-report/methodDependencies-initial-EC6035899A40C20D3CA435BAF02A4884-0.html" />
-        <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/Application.java" />
-        <option value="$PROJECT_DIR$/src/main/java/giovanniltId/Application.gwt.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/bottomBox.java" />
-        <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/skideShow/Callback.java" />
         <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/skideShow/SlideShow.java" />
         <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/slideShow/SlideShow.java" />
         <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/slideShowButton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/BottomBox.java" />
         <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/SlideShowButton.java" />
         <option value="$PROJECT_DIR$/src/main/resources/giovanniltId/public/Application.html" />
         <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/ImmageOrganizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/giovanniltId/client/components/BottomBox.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/appengine-web.xml" />
+        <option value="$PROJECT_DIR$/target/webGiovannilt-1.0-SNAPSHOT/giovanniltId.Application/giovanniltId.Application.nocache.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/giovannillt/public/Application.html" />
+        <option value="$PROJECT_DIR$/src/test/java/giovannillt/client/GwtTestSample.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/giovannillt/client/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/giovannilt/client/HomePage.java" />
+        <option value="$PROJECT_DIR$/../../../../Desktop/test.html" />
       </list>
     </option>
   </component>
@@ -285,30 +1034,8 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webGiovannilt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webGiovannilt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,78 +1054,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giovanniltId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webGiovannilt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webGiovannilt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giovanniltId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webGiovannilt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webGiovannilt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giovanniltId" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -414,7 +1069,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="reference.idesettings.debugger.dataviews" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -427,10 +1082,16 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/war/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/webGiovannilt-1.0-SNAPSHOT/WEB-INF" />
+      <recent name="$PROJECT_DIR$/war/WEB-INF" />
+      <recent name="$PROJECT_DIR$/war" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/resources/giovanniltId/public/slideShow" />
-      <recent name="$PROJECT_DIR$/src/main/java/giovanniltId/client/skideShow" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunManager" selected="GWT Configuration.GiovanniltWEB">
@@ -587,15 +1248,22 @@
     <configuration default="false" name="GiovanniltWEB" type="GWT.ConfigurationType" factoryName="GWT Configuration">
       <module name="webGiovannilt" />
       <option name="VM_PARAMETERS" value="-Xmx256m -d32 " />
-      <option name="RUN_PAGE" value="giovanniltId.Application/Application.html" />
-      <option name="GWT_MODULE" value="giovanniltId.Application" />
+      <option name="RUN_PAGE" value="giovannilt.Application/Application.html" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="57807" />
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53066" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <ConfigurationWrapper RunnerId="Debug" />
-      <method />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method>
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
     </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="GWT Configuration.GiovanniltWEB" />
@@ -643,10 +1311,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="1324" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JavaRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29235882" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -654,18 +1323,17 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JavaRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24552846" sideWeight="0.7018272" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36666667" sideWeight="0.66528237" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2333887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -740,73 +1408,126 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/slate/images/slate/button/arrow.gif">
-      <provider selected="true" editor-type-id="images">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.0.3/gwt-user-2.0.3.jar!/com/google/gwt/junit/client/GWTTestCase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="181" selection-end="181" vertical-scroll-proportion="-0.6796537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/giovannilt/client/GwtTestSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="1" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/giovannilt/client/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/giovannilt/Application.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="3" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/extjs/gxt/2.1.1/gxt-2.1.1.jar!/com/extjs/gxt/ui/client/widget/ContentPanel.class">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="32" selection-start="5320" selection-end="5336" vertical-scroll-proportion="0.3024453" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/giovanniltId/public/css/gxt-all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/Application.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/extjs/gxt/2.1.1/gxt-2.1.1.jar!/com/extjs/gxt/ui/client/widget/layout/AbsoluteLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="9" selection-start="801" selection-end="801" vertical-scroll-proportion="0.31658292" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/client/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="7" selection-start="3006" selection-end="3073" vertical-scroll-proportion="0.0">
+        <state line="5" column="29" selection-start="178" selection-end="178" vertical-scroll-proportion="-3.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/client/components/BottomBox.java">
+    <entry file="file://$PROJECT_DIR$/tomcat/conf/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/giovanniltId/public/themes/human/css/xtheme-human.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1374" column="17" selection-start="30743" selection-end="30755" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.7887325">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/client/Application.java">
+    <entry file="file://$PROJECT_DIR$/tomcat/webapps/ROOT/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/giovannilt/public/Application.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1829" selection-end="1829" vertical-scroll-proportion="-27.6">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="27" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/giovanniltId/public/Application.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="4" selection-start="1324" selection-end="1324" vertical-scroll-proportion="-16.8">
+        <state line="53" column="65" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/giovanniltId/client/components/ImmageOrganizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/giovannilt/client/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="29" selection-start="3923" selection-end="3942" vertical-scroll-proportion="0.44210526">
+        <state line="60" column="58" selection-start="2421" selection-end="2421" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/appengine-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="44" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="2" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/webGiovannilt-1.0-SNAPSHOT/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/WEB-INF/appengine-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Desktop/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="239" selection-end="239" vertical-scroll-proportion="0.1779661">
+          <folding />
         </state>
       </provider>
     </entry>
