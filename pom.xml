@@ -42,7 +42,7 @@
             <scope>compile</scope>
         </dependency>
 
-        <!-- GIO -->
+        <!-- GIO Ext JS-->
         <dependency>
             <groupId>com.extjs</groupId>
             <artifactId>gxt</artifactId>
