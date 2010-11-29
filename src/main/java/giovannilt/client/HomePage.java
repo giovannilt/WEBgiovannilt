@@ -7,6 +7,7 @@ import com.extjs.gxt.ui.client.widget.LayoutContainer;
 import com.extjs.gxt.ui.client.widget.Text;
 import com.extjs.gxt.ui.client.widget.layout.*;
 import giovannilt.client.components.BottomBox;
+import giovannilt.client.components.MyForm;
 //import org.intellij.lang.annotations.Language;
 
 /**
@@ -84,6 +85,7 @@ public class HomePage extends LayoutContainer {
 
         panelCentre.add(frase, eastData);
         panelCentre.add(panelInBox, centerData);
+        panelCentre.add(new MyForm(), centerData);
         panelCentre.add(new BottomBox(), bottomData);
 
 

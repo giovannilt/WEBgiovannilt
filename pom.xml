@@ -82,7 +82,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <runTarget>giovanniltId.Application/Application.html</runTarget>
+                    <runTarget>giovannilt.Application/Application.html</runTarget>
                 </configuration>
             </plugin>
             <!--
